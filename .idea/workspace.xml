@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cc92f93-0e34-4775-be08-74e9e7323686" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1iyODtxbDdFdV4ucqFTC1y5qNV3" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\devduldu\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="ts.external.directory.path" value="C:\Development\Reactjs\ReactNativeApolloClientReduxToolkit\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug app" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <react-native value="$PROJECT_DIR$/node_modules/react-native" />
+      <platform value="ANDROID" />
+      <envs />
+      <only-packager />
+      <browser value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <method v="2">
+        <option name="ReactNativePackager" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Webmaster\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cc92f93-0e34-4775-be08-74e9e7323686" name="Default Changelist" comment="" />
+      <created>1602876248624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602876248624</updated>
+      <workItem from="1602876250008" duration="388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="C:\\Program Files\\Git\\bin\\bash.exe" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4572" y="287" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602876431725">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state x="4572" y="287" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602876431725" />
+    <state width="2534" height="454" key="GridCell.Tab.0.bottom" timestamp="1602876443759">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2534" height="454" key="GridCell.Tab.0.bottom/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602876443759" />
+    <state width="2534" height="454" key="GridCell.Tab.0.center" timestamp="1602876443759">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2534" height="454" key="GridCell.Tab.0.center/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602876443759" />
+    <state width="2534" height="454" key="GridCell.Tab.0.left" timestamp="1602876443759">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2534" height="454" key="GridCell.Tab.0.left/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602876443759" />
+    <state width="2534" height="454" key="GridCell.Tab.0.right" timestamp="1602876443759">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2534" height="454" key="GridCell.Tab.0.right/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602876443759" />
+    <state width="2534" height="454" key="GridCell.Tab.1.bottom" timestamp="1602876471055">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2534" height="454" key="GridCell.Tab.1.bottom/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602876471055" />
+    <state width="2534" height="454" key="GridCell.Tab.1.center" timestamp="1602876471054">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2534" height="454" key="GridCell.Tab.1.center/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602876471054" />
+    <state width="2534" height="454" key="GridCell.Tab.1.left" timestamp="1602876471054">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2534" height="454" key="GridCell.Tab.1.left/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602876471054" />
+    <state width="2534" height="454" key="GridCell.Tab.1.right" timestamp="1602876471055">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2534" height="454" key="GridCell.Tab.1.right/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602876471055" />
+  </component>
+</project>
