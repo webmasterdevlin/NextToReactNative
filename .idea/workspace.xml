@@ -81,7 +81,7 @@
       <workItem from="1602949188915" duration="604000" />
       <workItem from="1602959140836" duration="384000" />
       <workItem from="1602966802047" duration="669000" />
-      <workItem from="1603003755837" duration="989000" />
+      <workItem from="1603003755837" duration="1650000" />
     </task>
     <task id="LOCAL-00001" summary="Added debugging">
       <created>1602876711447</created>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603003937761</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated">
+      <created>1603005942772</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603005942772</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -127,10 +134,10 @@
       <screen x="3840" y="0" width="2560" height="1400" />
     </state>
     <state x="4572" y="287" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602876431725" />
-    <state x="4647" y="104" key="CommitChangelistDialog2" timestamp="1603003928579">
+    <state x="4647" y="104" key="CommitChangelistDialog2" timestamp="1603005933344">
       <screen x="3840" y="0" width="2560" height="1400" />
     </state>
-    <state x="4647" y="104" key="CommitChangelistDialog2/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1603003928579" />
+    <state x="4647" y="104" key="CommitChangelistDialog2/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1603005933344" />
     <state width="2534" height="454" key="GridCell.Tab.0.bottom" timestamp="1602880406982">
       <screen x="3840" y="0" width="2560" height="1400" />
     </state>
@@ -179,9 +186,9 @@
       <screen x="3840" y="0" width="2560" height="1400" />
     </state>
     <state width="2534" height="454" key="GridCell.Tab.2.right/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602880406982" />
-    <state x="4613" y="364" key="Vcs.Push.Dialog.v2" timestamp="1603003940007">
+    <state x="4613" y="364" key="Vcs.Push.Dialog.v2" timestamp="1603006432838">
       <screen x="3840" y="0" width="2560" height="1400" />
     </state>
-    <state x="4613" y="364" key="Vcs.Push.Dialog.v2/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1603003940007" />
+    <state x="4613" y="364" key="Vcs.Push.Dialog.v2/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1603006432838" />
   </component>
 </project>

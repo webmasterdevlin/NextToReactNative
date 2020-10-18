@@ -5,5 +5,6 @@
 
 
 
-### For Auth0
+### For Security and Authentication jetbrains React Native
+- https://www.youtube.com/watch?v=KqbiRuyi1ck
 - https://github.com/FormidableLabs/react-native-app-auth
