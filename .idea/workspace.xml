@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8cc92f93-0e34-4775-be08-74e9e7323686" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +81,7 @@
       <workItem from="1602949188915" duration="604000" />
       <workItem from="1602959140836" duration="384000" />
       <workItem from="1602966802047" duration="669000" />
+      <workItem from="1603003755837" duration="989000" />
     </task>
     <task id="LOCAL-00001" summary="Added debugging">
       <created>1602876711447</created>
@@ -95,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602959517865</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated">
+      <created>1603003937761</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603003937761</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -110,17 +119,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added debugging" />
     <MESSAGE value="added restyle" />
-    <option name="LAST_COMMIT_MESSAGE" value="added restyle" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="4572" y="287" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602876431725">
       <screen x="3840" y="0" width="2560" height="1400" />
     </state>
     <state x="4572" y="287" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602876431725" />
-    <state x="4647" y="104" key="CommitChangelistDialog2" timestamp="1602959509117">
+    <state x="4647" y="104" key="CommitChangelistDialog2" timestamp="1603003928579">
       <screen x="3840" y="0" width="2560" height="1400" />
     </state>
-    <state x="4647" y="104" key="CommitChangelistDialog2/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602959509117" />
+    <state x="4647" y="104" key="CommitChangelistDialog2/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1603003928579" />
     <state width="2534" height="454" key="GridCell.Tab.0.bottom" timestamp="1602880406982">
       <screen x="3840" y="0" width="2560" height="1400" />
     </state>
@@ -169,9 +179,9 @@
       <screen x="3840" y="0" width="2560" height="1400" />
     </state>
     <state width="2534" height="454" key="GridCell.Tab.2.right/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602880406982" />
-    <state x="4613" y="364" key="Vcs.Push.Dialog.v2" timestamp="1602959520489">
+    <state x="4613" y="364" key="Vcs.Push.Dialog.v2" timestamp="1603003940007">
       <screen x="3840" y="0" width="2560" height="1400" />
     </state>
-    <state x="4613" y="364" key="Vcs.Push.Dialog.v2/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602959520489" />
+    <state x="4613" y="364" key="Vcs.Push.Dialog.v2/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1603003940007" />
   </component>
 </project>
