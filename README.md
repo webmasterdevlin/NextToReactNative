@@ -3,8 +3,17 @@
 - https://akveo.github.io/react-native-ui-kitten/
 - https://www.jetbrains.com/help/webstorm/react-native.html#ws_react_native_run_and_debug
 
-
-
 ### For Security and Authentication jetbrains React Native
+
 - https://www.youtube.com/watch?v=KqbiRuyi1ck
 - https://github.com/FormidableLabs/react-native-app-auth
+
+### How to debug
+
+```zsh
+rm -rf node_modules
+npm clean cache
+watchman watch-del-all
+npm i
+npm start -- --reset-cache
+```
