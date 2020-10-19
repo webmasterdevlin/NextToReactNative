@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cc92f93-0e34-4775-be08-74e9e7323686" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradlew" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +42,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\devduldu\AppData\Roaming\npm\node_modules\prettier" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
-    <property name="ts.external.directory.path" value="C:\Development\Reactjs\ReactNativeApolloClientReduxToolkit\node_modules\typescript\lib" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.tslint" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -82,6 +89,7 @@
       <workItem from="1602959140836" duration="384000" />
       <workItem from="1602966802047" duration="669000" />
       <workItem from="1603003755837" duration="1650000" />
+      <workItem from="1603113788494" duration="2533000" />
     </task>
     <task id="LOCAL-00001" summary="Added debugging">
       <created>1602876711447</created>
@@ -186,6 +194,10 @@
       <screen x="3840" y="0" width="2560" height="1400" />
     </state>
     <state width="2534" height="454" key="GridCell.Tab.2.right/3840.0.2560.1400/0.0.2560.1400@3840.0.2560.1400" timestamp="1602880406982" />
+    <state x="2402" y="189" width="1016" height="742" key="SettingsEditor" timestamp="1603115003102">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2402" y="189" width="1016" height="742" key="SettingsEditor/1920.0.1920.1080/3840.0.1920.1080/60.27.1860.1053@1920.0.1920.1080" timestamp="1603115003102" />
     <state x="4613" y="364" key="Vcs.Push.Dialog.v2" timestamp="1603006432838">
       <screen x="3840" y="0" width="2560" height="1400" />
     </state>
